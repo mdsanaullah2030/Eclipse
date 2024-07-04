@@ -11,6 +11,15 @@
 
 %>
 
+ <style>
+        table tr th td{
+            border: 1px solid;
+        }
+        table{
+            width: 50%;
+            border-collapse: collapse;
+        }
+    </style>
 
 <table border="1" >
     <thead>
